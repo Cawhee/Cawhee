@@ -1,0 +1,69 @@
+
+body{
+	background-color: #FDFDF0;
+	width: fill;
+	height: fill;
+	overflow: hidden;
+}
+.wiki {
+	position: absolute;
+	top: 40%;
+	left: 34%;
+	float: left;
+	background-image: url('imgs/wiki.svg');
+	background-repeat: no-repeat;
+	height: 80px;
+	width: 80px;
+	background-size: 400px;
+	z-index: -1;
+}
+.tweet {
+	position: absolute;
+	top: 39%;
+	left: 44%;
+	float: left;
+	background-image: url('imgs/tweet.svg');
+	background-repeat: no-repeat;
+	height: 80px;
+	width: 80px;
+	background-size: 400px;
+	z-index: 10;	
+}
+.flickr {
+	position: absolute;
+	top: 22%;
+	left: 44%;
+	float: left;
+	background-image: url('imgs/flicka.svg');
+	background-repeat: no-repeat;
+	height: 80px;
+	width: 80px;
+	background-size: 400px;
+}
+.facebook {
+	position: absolute;
+	top: 39%;
+	left: 54%;
+	float: left;
+	background-image: url('imgs/faceboo.svg');
+	background-repeat: no-repeat;
+	height: 80px;
+	width: 80px;
+	background-size: 400px;
+}
+.GitHub {
+	position: absolute;
+	top: 55%;
+	left: 44%;
+	float: left;
+	background-image: url('imgs/Octocato.svg');
+	background-repeat: no-repeat;
+	height: 80px;
+	width: 80px;
+	background-size: 400px;
+}
+.Or {
+	left: 40%;
+	position: absolute;
+	top: 80%;
+}
